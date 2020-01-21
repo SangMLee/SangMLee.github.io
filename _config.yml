@@ -1,24 +1,16 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+#repository: sproogen/resume-theme
+#favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
+name: Sang MAn Lee
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: s.manlee4@gmail.com
+website: https://sangmlee.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
+github_username:  SangMLee
 linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
